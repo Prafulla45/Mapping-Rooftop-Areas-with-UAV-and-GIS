@@ -196,7 +196,7 @@ The U-Net model uses a threshold of 0.65 on sigmoid output to produce binary mas
 - `mask{n}.tif` - Predicted binary rooftop masks
 - `overlay{n}.tif` - Original images with predicted masks blended in
 
-All output GeoTIFFs use EPSG:4326 (WGS 84) as the coordinate reference system.
+All output GeoTIFFs use EPSG:4326 (WGS 84) as the coordinate reference system
 
 ---
 
